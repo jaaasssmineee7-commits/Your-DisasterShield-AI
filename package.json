@@ -1,0 +1,22 @@
+{
+  "name": "disaster-shield-ai",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DisasterShield AI — An AI-Powered Smart Disaster Management Platform",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test src/tests/scoring.test.js"
+  },
+  "keywords": [
+    "disaster-management",
+    "delhi-flood",
+    "yamuna-river",
+    "ai-threat-detection",
+    "aws-bedrock",
+    "emergency-response"
+  ],
+  "author": "DisasterShield AI Engineering Team",
+  "license": "MIT"
+}
